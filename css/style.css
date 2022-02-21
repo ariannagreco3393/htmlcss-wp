@@ -43,7 +43,7 @@ main {
     width: auto;
     height: 700px;
     padding: 0px 200px;
-    /* position: relative; */
+    position: relative
 }
 
 .hero-img {
@@ -54,15 +54,16 @@ main {
 }
 
 
-/* 
+
 .layer {
-    background-color: rgba(255, 247, 17, 0.7);
+    background-color: rgba(2, 2, 1, 0.308);
     position: absolute;
     top: 0;
-    left: 0;
-    width: auto;
+    left: 10;
+    width: 1635px;
     height: 700px;
-} */
+    border-radius: 15px;
+}
 
 .titolo {
     width: 40%;
