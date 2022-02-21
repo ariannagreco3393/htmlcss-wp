@@ -9,8 +9,7 @@ body {
     margin: 0 10%;
 }
 
-header,
-footer {
+header {
     height: 250px;
 }
 
@@ -129,7 +128,7 @@ leadership*/
 
 .row {
     padding: 0px 200px;
-    height: 600px;
+    height: 850px;
 }
 
 .img-lg {
@@ -177,28 +176,11 @@ h3 {
 }
 
 
-/* 
-.paragraph-aside {
-    background-color: black;
-    width: 200px;
-    height: 300px;
-    margin: 210px 0;
-} */
-
-/* .img-center {
-    background-color: black;
-    width: 1240px;
-    height: 200px;
-    float: left;
-    margin: 50px 50px;
-} */
-
-/* .paragraph-center {
-    background-color: black;
-    width: 1240px;
-    height: 300px;
-    margin: 280px 50px;
+.site_footer {
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    color: red;
 }
- */
 
 
